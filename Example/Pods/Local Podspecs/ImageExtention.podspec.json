@@ -1,0 +1,22 @@
+{
+  "name": "ImageExtention",
+  "version": "0.1.0",
+  "summary": "A short description of ImageExtention.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/punitg863@gmail.com/ImageExtention",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "punitg863@gmail.com": "punit.gupta@united.com"
+  },
+  "source": {
+    "git": "https://github.com/punitg863@gmail.com/ImageExtention.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ImageExtention/Classes/**/*"
+}

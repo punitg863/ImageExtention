@@ -1,0 +1,6 @@
+framework module Pods_ImageExtention_Example {
+  umbrella header "Pods-ImageExtention_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
